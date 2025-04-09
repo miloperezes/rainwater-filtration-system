@@ -11,7 +11,7 @@ This project addresses water scarcity and promotes sustainable water practices b
 - Analyzing water quality through sensors (pH, turbidity).
 - Automatically filtering water using an Arduino-controlled system.
 
-## 📁 File Contents
+## 📁 Important Figures and Files
 
 - `README.md` – This file.
 - `circuit_code.ino` – Arduino sketch for water monitoring and filtration control.
