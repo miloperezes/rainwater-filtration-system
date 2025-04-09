@@ -16,6 +16,8 @@ This project addresses water scarcity and promotes sustainable water practices b
 - `README.md` – This file.
 - `circuit_code.ino` – Arduino sketch for water monitoring and filtration control.
 - `system_diagram.png` – (Optional) System block diagram / flowchart (not included here).
+
+Arduino Circuit 
 - ![Arduino Circuit](./arduino_circuit.png)
 
 ## 🧰 Components
